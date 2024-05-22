@@ -1,0 +1,6 @@
+Database Name: votingsystem
+
+Admin Login Details
+
+Username: admin
+Password: calvin
